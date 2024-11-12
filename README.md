@@ -1,1 +1,1 @@
-# WorskshopVRGP3
+# FingerTrackingVR
