@@ -45,6 +45,14 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "StudioTelemetry",
+			"Enabled": false
+		},
+		{
+			"Name": "UdpMessaging",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
